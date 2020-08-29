@@ -26,7 +26,7 @@ Fair enough.
 
 We know our `Post` model has a timestamp field called `updated_at`, so we decide
 to display that.
-
+g
 ```erb
 <!-- app/views/posts/show.html.erb -->
 
